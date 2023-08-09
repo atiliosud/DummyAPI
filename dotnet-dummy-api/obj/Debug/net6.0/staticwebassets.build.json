@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SWAL+pflSpUToqU+Szy46fL5coUQHGZNTpGP6C9P2WA=",
+  "Source": "dotnet-dummy.api",
+  "BasePath": "_content/dotnet-dummy.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

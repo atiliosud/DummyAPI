@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-dummy.api", "dotnet-dummy.api.csproj", "{B41940F0-B6B9-415D-BF9C-DCFF820E5C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-dummy.business", "..\dotnet-dummy.business\dotnet-dummy.business.csproj", "{59164DC4-AEB9-4D42-90F9-DF6A04813363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41940F0-B6B9-415D-BF9C-DCFF820E5C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41940F0-B6B9-415D-BF9C-DCFF820E5C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41940F0-B6B9-415D-BF9C-DCFF820E5C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41940F0-B6B9-415D-BF9C-DCFF820E5C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59164DC4-AEB9-4D42-90F9-DF6A04813363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59164DC4-AEB9-4D42-90F9-DF6A04813363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59164DC4-AEB9-4D42-90F9-DF6A04813363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59164DC4-AEB9-4D42-90F9-DF6A04813363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB06551-2644-4455-884D-670E76FA4068}
+	EndGlobalSection
+EndGlobal
